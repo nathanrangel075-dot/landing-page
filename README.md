@@ -1,1 +1,3 @@
 # landing-page
+
+For this project, I designed a website homepage dedicated to showcasing one of the most popular video games that released in the early 2010s and is still iconic to this day. There are sections of content from top to bottom with the second section that showcases the name of spartans that are apart of Noble-Six. I may develop more webpages on this website later, but for the time being I will be just showcasing just the homepage.
